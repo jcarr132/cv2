@@ -1,0 +1,21 @@
+<div id=education>
+<h2>Education</h2>
+{{ range .Education }}
+  <div class=university>
+
+    <div class=degree>
+      <div><strong>{{.Degree}}</strong></div>
+      <div class=dates>{{.Started}} - {{.Stopped}}</div>
+    </div>
+    <div class=institution>{{.Institution}} <span class=location>({{.Location}})</span></div>
+    </div>
+  </div>
+
+
+  <ul class=details>
+    {{ range .Details }}
+    <li class=details>{{- . -}}</li>
+    {{end}}
+  </ul>
+</div>
+{{end}}
