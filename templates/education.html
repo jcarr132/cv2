@@ -2,7 +2,6 @@
 <h2>Education</h2>
 {{ range .Education }}
   <div class=university>
-
     <div class=degree>
       <div><strong>{{.Degree}}</strong></div>
       <div class=dates>{{.Started}} - {{.Stopped}}</div>
@@ -17,5 +16,5 @@
     <li class=details>{{- . -}}</li>
     {{end}}
   </ul>
-</div>
 {{end}}
+</div>

@@ -1,8 +1,8 @@
 <div id=skills>
 <h2>Skills</h2>
 <ul>
-{{ range .Skills -}}
-<li>{{.}}</li>
-{{end -}}
+  <li>Technologies: {{ range .Technologies -}}{{.}}, {{end}}</li>
+  <li>Hard Skills: {{ range .HardSkills -}}{{.}}, {{end}}</li>
+  <li>Soft Skills: {{ range .SoftSkills -}}{{.}}, {{end}}</li>
 </ul>
 </div>

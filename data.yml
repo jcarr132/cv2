@@ -7,13 +7,14 @@ Location: Ottawa, Ontario, Canada
 
 
 Mission:
-  I'm an interdisciplinary technology professional with background in cognitive
-  psychology and human-computer interaction. My main interest is in studying the
-  complex and evolving relationships between people and the technology we use;
-  how our needs shape the technologies that in turn shape us and our societies.
 
-Skills:
-  Technologies: [
+  I'm an interdisciplinary technology professional with background in cognitive
+  psychology and human-computer interaction. My main interest is in studying
+  the complex and evolving relationships between people and the technology we
+  use; how our needs shape the technologies that in turn shape us and our
+  societies.
+
+Technologies: [
     Linux/Unix,
     Shell Scripting,
     JavaScript/HTML/CSS,
@@ -24,11 +25,11 @@ Skills:
     GitHub,
     Azure DevOps,
   ]
-  Hard Skills: [
+HardSkills: [
     Software Project Management,
     User-Centric Design,
     User Research,
-    UX Evalutation,
+    UX Evaluation,
     Requirements Analysis,
     Technical Writing,
     Agile/Scrum,
@@ -36,7 +37,7 @@ Skills:
     Research,
     Data Visualization,
   ]
-  Soft Skills: [
+SoftSkills: [
     Analytical Thinking,
     Prioritization,
     Adaptability,
@@ -64,8 +65,6 @@ Education:
     Stopped: September 2020
     Location: Ottawa, Ontario, Canada
     Details:
-      - first detail
-      - another one
 
   - Degree: Bachelor of Science (Honours) in Psychology
     Institution: Trent University
@@ -73,8 +72,6 @@ Education:
     Stopped: April 2015
     Location: Peterborough, Ontario, Canada
     Details:
-      - test
-      - test
 
 Experience:
   - Role: Corporate Services Coordinator (AS-03)
@@ -83,15 +80,13 @@ Experience:
     Stopped: Present
     Location: Remote, Canada
     Details:
-      - detail
 
   - Role: Junior Business Analyst (EC-02)
-    Entity: Strategic Directions Directorate, Service Canada
+    Entity: Strategic Directions, Service Canada
     Started: May 2019
     Stopped: April 2020
     Location: Gatineau, Québec, Canada
     Details:
-      -
 
   - Role: Research Assistant
     Entity: Carleton University
