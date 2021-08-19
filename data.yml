@@ -1,8 +1,8 @@
-Name: Joshua Carr
+Name:     Joshua Carr
 Pronouns: they/them
-Role: M.A.Sc. Human-Computer Interaction
-Email: josh.carr@carleton.ca
-Web: jcarr.xyz
+Role:     M.A.Sc. Human-Computer Interaction
+Email:    josh.carr@carleton.ca
+Web:      jcarr.xyz
 Location: Ottawa, Ontario, Canada
 
 
@@ -37,6 +37,7 @@ HardSkills: [
     Research,
     Data Visualization,
   ]
+
 SoftSkills: [
     Analytical Thinking,
     Prioritization,
@@ -59,42 +60,59 @@ Interests: [
   ]
 
 Education:
-  - Degree: Master of Applied Science in Human-Computer Interaction
+  - Degree:      Master of Applied Science in Human-Computer Interaction
     Institution: Carleton University
-    Started: September 2018
-    Stopped: September 2020
-    Location: Ottawa, Ontario, Canada
+    Started:     September 2018
+    Stopped:     September 2020
+    Location:    Ottawa, Ontario, Canada
     Details:
 
-  - Degree: Bachelor of Science (Honours) in Psychology
+  - Degree:      Bachelor of Science (Honours) in Psychology
     Institution: Trent University
-    Started: September 2011
-    Stopped: April 2015
-    Location: Peterborough, Ontario, Canada
+    Started:     September 2011
+    Stopped:     April 2015
+    Location:    Peterborough, Ontario, Canada
     Details:
 
 Experience:
-  - Role: Corporate Services Coordinator (AS-03)
-    Entity: Digital HR, Department of National Defence
-    Started: July 2021
-    Stopped: Present
+  - Role:     Corporate Services Coordinator (AS-03)
+    Entity:   Digital HR, Department of National Defence
+    Started:  July 2021
+    Stopped:  Present
     Location: Remote, Canada
     Details:
+      - Worked in a Product Management role for DND Careers, a recruitment
+        platform for the Department of National Defence which hosts over 3500
+        user accounts.
+      - Agile (Scrum) workflow, CI/CD.
+      - Requirements analysis, developing acceptance criteria, writing
+        technical specifications.
+      - Working with Stakeholders to prioritize issues and deliver business
+        value.
 
-  - Role: Junior Business Analyst (EC-02)
-    Entity: Strategic Directions, Service Canada
-    Started: May 2019
-    Stopped: April 2020
+  - Role:     Junior Business Analyst (EC-02)
+    Entity:   Strategic Directions, Service Canada
+    Started:  May 2019
+    Stopped:  April 2020
     Location: Gatineau, Québec, Canada
     Details:
+      - Conducted quantitative data analysis on various organizational data
+        sources using R to support and inform business decision-making.
+      - Developed data visualizations, reports, and research proposals.
+      - Generated qualitative artefacts including Personas, Journey Maps, and
+        Service Blueprints.
 
-  - Role: Research Assistant
-    Entity: Carleton University
-    Started: September 2018
-    Stopped: September 2020
+  - Role:     Research Assistant
+    Entity:   Carleton University
+    Started:  September 2018
+    Stopped:  September 2020
     Location: Ottawa, Ontario, Canada
     Details:
-
+      - Designed and built a prototype user-authentication system for
+        brain-computer interface devices using JavaScript and MongoDB.
+      - Conducted in person usability testing as well as remote semi-structured
+        interviewing and online surveys.
+      - Performed statistical data analysis and hypothesis testing using R.
 
 Projects:
 Keywords: []
