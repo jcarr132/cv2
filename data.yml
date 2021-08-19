@@ -16,7 +16,8 @@ Mission:
 
 Technologies: [
     Linux/Unix,
-    Shell Scripting,
+    # Shell Scripting,
+    Bash,
     JavaScript/HTML/CSS,
     Python,
     Go,
@@ -25,11 +26,13 @@ Technologies: [
     GitHub,
     Azure DevOps,
   ]
+
 HardSkills: [
     Software Project Management,
     User-Centric Design,
     User Research,
     UX Evaluation,
+    Data Visualization,
     Requirements Analysis,
     Technical Writing,
     Agile/Scrum,
@@ -51,7 +54,7 @@ SoftSkills: [
   ]
 
 Interests: [
-    Human Factors in Computing,
+    Human Factors in Software Development,
     Open Source Development,
     Technology and Mental Health,
     Digital Minimalism,
