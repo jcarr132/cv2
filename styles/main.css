@@ -25,6 +25,7 @@ body {
 
 ul {
   margin-left: -5pt;
+  list-style-position: outside;
 }
 
 h2 {
