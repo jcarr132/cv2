@@ -17,7 +17,7 @@ func check(e error) {
 }
 
 func main() {
-	out, err := os.Create("index.html")
+	out, err := os.Create("public/index.html")
 	defer out.Close()
 	check(err)
 
