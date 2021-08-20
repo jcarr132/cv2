@@ -5,7 +5,7 @@
 ```
 - Go 1.15
   - yaml v3.0.0
-- Python 3.9 (required for PDF)
+- Python 3.9 (required to generate PDF)
   - WeasyPrint version 53.0
 ```
 
