@@ -18,13 +18,13 @@ Technologies: [
     Linux/Unix,
     # Shell Scripting,
     Bash,
+    R,
     JavaScript/HTML/CSS,
     Python,
     Go,
-    R,
     MongoDB,
     GitHub,
-    Azure DevOps,
+    # Azure DevOps,
   ]
 
 HardSkills: [
@@ -32,7 +32,6 @@ HardSkills: [
     User-Centric Design,
     User Research,
     UX Evaluation,
-    Data Visualization,
     Requirements Analysis,
     Technical Writing,
     Agile/Scrum,

@@ -9,7 +9,7 @@ main {
   max-width: 45rem;
   margin-left: auto;
   margin-right: auto;
-  /* border: 1px solid grey; */
+  /* font-size: 0.9em; */
 }
 
 a {
@@ -24,24 +24,23 @@ body {
 }
 
 ul {
-  margin-left: -5pt;
+  margin-top: 0.3rem;
   list-style-position: outside;
 }
 
 h2 {
-  /* font-variant: small-caps; */
-  margin-top: 15pt;
-  font-size: 1.3rem;
-  line-height: 0.2rem;
+  margin-top: 1.2rem;
+  font-size: 1.2rem;
+  line-height: 0.1rem;
 }
 
 #name {
-  margin-bottom: 5pt;
+  margin-bottom: 0.1rem;
 }
 
 #about {
   text-align: center;
-  margin-bottom: 5pt;
+  margin-bottom: 1rem;
 }
 
 #pronouns {
@@ -49,9 +48,28 @@ h2 {
 }
 
 #mission {
-  /* padding-bottom: 0pt; */
+  margin-bottom: 1em;
 }
 
 .employer, .university {
-  margin-left: 10pt;
+  margin-left: 1rem;
+}
+
+@media print {
+  @page {
+    size: Letter portrait;
+    margin: 0.5cm;
+  }
+  h1, h2, h3, h4, h5 {
+    page-break-after: avoid;
+  }
+  .m-0, .m-0 *, .dont-print, .dont-print * {
+    display: none!important;
+  }
+  /* section.resume-section { */
+  /*   margin-top: -10rem!important; */
+  /*   padding-top: 0rem!important; */
+  /*   padding-bottom: 0rem!important; */
+  /*   page-break-after: avoid; */
+  /* } */
 }
