@@ -4,7 +4,7 @@ jobs:
   Build-The-CV:
     runs-on: ubuntu-latest
     steps:
-      — uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
       - name: Setup Go
         uses: actions/setup-go@v2
