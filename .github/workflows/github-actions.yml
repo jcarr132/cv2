@@ -24,13 +24,11 @@ jobs:
           pip install weasyprint
 
       - name: Generate HTML
-        path: public/index.html
         run: |
           go run main.go
 
 
       - name: Generate PDF
-        path: public/jcarr_cv.pdf
         run: |
           weasyprint ./public/index.html ./public/jcarr_cv.pdf
 
