@@ -14,4 +14,4 @@ HTML CV from the HTML templates in `./templates/` and the data contained
 in `data.yml` with Go, then create the PDF with Python/WeasyPrint. The
 rendered HTML and PDF go in `./public/`.
 
-![pdf](./public/jcarr_cv.pdf)
+![Get the PDF here.](./public/jcarr_cv.pdf)
