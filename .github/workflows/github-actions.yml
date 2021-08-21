@@ -1,0 +1,35 @@
+name: Build on Push
+on: [push]
+jobs:
+  Build-The-CV:
+    runs-on: ubuntu-latest
+    steps:
+      — uses: actions/checkout@v2
+
+      # setup go
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.15.0'
+
+      # setup python
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      # dependencies
+      - name: Install dependencies
+        run: |
+          go version
+          go get -u gopkg.in/yaml.v3
+          python -m pip install --upgrade pip
+          pip install weasyprint
+
+      - name: Generate HTML
+        run: |
+          go run main.go
+
+      - name: Generate PDF
+        run: |
+          weasyprint ./public/index.html ./public/jcarr_cv.pdf
