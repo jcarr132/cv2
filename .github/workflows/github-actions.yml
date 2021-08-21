@@ -24,13 +24,18 @@ jobs:
           pip install weasyprint
 
       - name: Generate HTML
-        uses: actions/upload-artifact@v2
         path: public/index.html
         run: |
           go run main.go
 
+
       - name: Generate PDF
-        uses: actions/upload-artifact@v2
         path: public/jcarr_cv.pdf
         run: |
           weasyprint ./public/index.html ./public/jcarr_cv.pdf
+
+      - name: Upload HTML
+        uses: actions/upload-artifact@v2
+        with:
+          name: index.html
+          path: public/index.html
