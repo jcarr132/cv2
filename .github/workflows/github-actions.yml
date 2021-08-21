@@ -6,19 +6,16 @@ jobs:
     steps:
       — uses: actions/checkout@v2
 
-      # setup go
       - name: Setup Go
         uses: actions/setup-go@v2
         with:
           go-version: '1.15.0'
 
-      # setup python
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.9
 
-      # dependencies
       - name: Install dependencies
         run: |
           go version
