@@ -85,7 +85,7 @@ Education:
     Details:
 
 Experience:
-  - Role:     Corporate Services Coordinator (AS-03)
+  - Role:     Business Analyst
     Entity:   Digital HR, Department of National Defence
     Started:  July 2021
     Stopped:  Present
@@ -100,7 +100,7 @@ Experience:
       - Working with Stakeholders to prioritize issues and deliver business
         value.
 
-  - Role:     Junior Business Analyst (EC-02)
+  - Role:     Junior Business Analyst
     Entity:   Strategic Directions, Service Canada
     Started:  May 2019
     Stopped:  April 2020
@@ -123,6 +123,12 @@ Experience:
       - Conducted in person usability testing as well as remote semi-structured
         interviewing and online surveys.
       - Performed statistical data analysis and hypothesis testing using R.
+
+  # - Role: Polysomnograph Technologist
+  #   Entity: Trent Regional Sleep Clinic
+  #   Started:  May 2017
+  #   Stopped:  August 2018
+  #   Location: Peterborough, Ontario, Canada
 
 Projects:
 Keywords: []
