@@ -124,11 +124,34 @@ Experience:
         interviewing and online surveys.
       - Performed statistical data analysis and hypothesis testing using R.
 
-  # - Role: Polysomnograph Technologist
-  #   Entity: Trent Regional Sleep Clinic
-  #   Started:  May 2017
-  #   Stopped:  August 2018
-  #   Location: Peterborough, Ontario, Canada
+  - Role: Teaching Assistant
+    Entity: Carleton University
+    Started: September 2018
+    Stopped: January 2020
+    Location: Ottawa, Ontario, Canada
+    Details:
+      - Assisted with administration of several courses in the domain of
+        interactive multimedia.
+      - Courses included Advanced Visual Effects, Introduction to
+        Interactive Multimedia, and Advanced Topics in Multimedia.
+
+  - Role: Polysomnograph Technologist
+    Entity: Trent Regional Sleep Clinic
+    Started:  May 2017
+    Stopped:  August 2018
+    Location: Peterborough, Ontario, Canada
+
+  - Role: Teaching Assistant
+    Entity: Trent University
+    Started: September 2015
+    Stopped: January 2018
+    Location: Peterborough, Ontario, Canada
+
+  - Role: Research Assistant
+    Entity: Trent University
+    Started: September 2013
+    Stopped: January 2017
+    Location: Peterborough, Ontario, Canada
 
 Projects:
 Keywords: []

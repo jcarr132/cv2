@@ -59,6 +59,7 @@ h2 {
   @page {
     size: Letter portrait;
     margin: 0.5cm;
+    margin-top: 1cm;
   }
 
   body {
