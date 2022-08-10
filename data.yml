@@ -1,7 +1,7 @@
-Name:     Joshua Carr
+Name:     Jocelyn Carr
 Pronouns: they/them
 Role:     User Experience | Software Development | Human Factors
-Email:    josh.carr@carleton.ca
+Email:    jocelyn.carr132@gmail.com
 Web:      jcarr.xyz
 Location: Ottawa, Ontario, Canada
 
@@ -23,6 +23,8 @@ Mission:
   # societies.
 
 Technologies: [
+    Azure DevOps,
+    Git & GitHub,
     Linux/Unix,
     # Shell Scripting,
     Bash,
@@ -31,7 +33,6 @@ Technologies: [
     Python,
     Go,
     MongoDB,
-    GitHub,
     # Azure DevOps,
   ]
 
@@ -94,11 +95,13 @@ Experience:
       - Worked in a Product Management role for DND Careers, a recruitment
         platform for the Department of National Defence which hosts over 3500
         user accounts.
-      - Agile (Scrum) workflow, CI/CD, GitHub.
+      - Applied user-centric design principles in an Agile development
+        environment.
       - Requirements analysis, developing acceptance criteria, writing
-        technical specifications.
-      - Working with Stakeholders to prioritize issues and deliver business
-        value.
+        user stories technical specifications.
+      - Worked closely with stakeholders to prioritize issues and
+        deliver business value.
+      - Provided progress reports and status updates to senior management.
 
   - Role:     Junior Business Analyst
     Entity:   Strategic Directions, Service Canada
