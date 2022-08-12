@@ -23,7 +23,8 @@ body {
 }
 
 ul {
-  margin-top: 0.8rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
   list-style-position: outside;
 }
 
